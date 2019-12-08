@@ -1,6 +1,6 @@
 # Javascript-Drumkit
 Vanilla JS Challenge - Use the keyboard to play the drums.
-Day 1 of a 30 day coding challenge to build 30 projest in 30 days (Javascript 30 courtesy of Wes Bos). 
+Day 1 of a 30 day coding challenge to build 30 projest in 30 days ("Javascript 30" courtesy of Wes Bos). 
 
 In this project we built a drumkit so that when you press a button the browser makes a sound.
 
